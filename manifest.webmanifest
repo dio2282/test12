@@ -1,8 +1,8 @@
 {
-  "name": "Urara",
-  "short_name": "Urara",
+  "name": "Kandang Alwi",
+  "short_name": "Kandang Alwi",
   "lang": "en-US",
-  "description": "Powered by SvelteKit/Urara",
+  "description": "Powered by Kandang Alwi",
   "id": "https://urara-demo.netlify.app/",
   "start_url": "/",
   "scope": "/",
